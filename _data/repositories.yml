@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - FelixMoeller3
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - FelixMoeller3/calms
+  - lucat1/fast-ternary-convolution
+  - FelixMoeller3/ummlibseatsearch
+  - FelixMoeller3/glue-factory
+  - FelixMoeller3/SeminarReport_NovelAdvancesInAI
+  - FelixMoeller3/Zusammenfassung_HM
